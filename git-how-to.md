@@ -1,0 +1,2 @@
+-ssh-keygen, потом отнести .pub на гитхаб
+-git clone ssh-ссылка
